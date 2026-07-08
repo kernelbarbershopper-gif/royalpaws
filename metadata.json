@@ -1,0 +1,6 @@
+{
+  "name": "RoyalPaws",
+  "description": "Plataforma premium unificada de e-commerce e gestão ERP/SaaS para Petshops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
